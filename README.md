@@ -28,7 +28,8 @@ Average Selling Price: ₹40.11K
 
 🗓️ Sales by Weekday: Sales trends across days, with higher performance on weekdays (Mon–Fri).
 
-
+# Ropository Sructure
+Dashboard: https://github.com/YAGYAYAD/PowerBI_MobileSalesData/blob/main/README.md
 # 🎯 Business Value:
 This dashboard enables marketing and sales teams to:
 
